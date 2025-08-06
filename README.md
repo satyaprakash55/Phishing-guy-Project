@@ -81,8 +81,9 @@ PhishingGuy/
 📎 License
 MIT License — free to use, modify, and share.
 
-🔗 GitHub Repository
-👉 Click here to visit the repo
+
+ 🔗 GitHub Repository
+👉 satyaprakash55 / Phishing–guy–Project
 
 
 
